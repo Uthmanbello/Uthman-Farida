@@ -9,6 +9,7 @@
     height: 100vh;
 }
 
+/* fixed to top*/
 nav{
     position: fixed;
 }
